@@ -5,6 +5,12 @@ The Online Voting System is a web-based application designed to facilitate and s
 
 Features
 User Authentication: Secure login and registration system for voters.
+
+
 Vote Casting: Users can cast their votes in a straightforward and user-friendly interface.
+
+
 Real-Time Results: Administrators can view up-to-date voting results.
+
+
 Data Security: Secure handling of user data and votes.
